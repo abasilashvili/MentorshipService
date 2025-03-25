@@ -20,7 +20,7 @@
 	branch = dev
 [submodule "analytics_service"]
 	path = analytics_service
-	url = https://github.com/CorporationX/analytics_service.git
+	url = https://github.com/abasilashvili/AnalyticsService
 	branch = dev
 [submodule "achievement_service"]
 	path = achievement_service
