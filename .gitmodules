@@ -12,7 +12,7 @@
 	branch = dev
 [submodule "payment_service"]
 	path = payment_service
-	url = https://github.com/CorporationX/payment_service.git
+	url = https://github.com/abasilashvili/PaymentService
 	branch = dev
 [submodule "notification_service"]
 	path = notification_service
