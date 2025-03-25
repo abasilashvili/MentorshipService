@@ -8,7 +8,7 @@
 	branch = dev
 [submodule "post_service"]
 	path = post_service
-	url = https://github.com/CorporationX/post_service.git
+	url = https://github.com/abasilashvili/PostService
 	branch = dev
 [submodule "payment_service"]
 	path = payment_service
