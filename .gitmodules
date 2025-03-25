@@ -32,9 +32,5 @@
 	branch = dev
 [submodule "url_shortener_service"]
 	path = url_shortener_service
-	url = https://github.com/CorporationX/url_shortener_service.git
+	url = https://github.com/abasilashvili/UrlShortenerService
 	branch = dev
-[submodule "infra"]
-	path = infra
-	url = https://github.com/CorporationX/infra.git
-	branch = master
