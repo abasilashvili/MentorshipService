@@ -28,7 +28,7 @@
 	branch = dev
 [submodule "account_service"]
 	path = account_service
-	url = https://github.com/CorporationX/account_service.git
+	url = https://github.com/abasilashvili/AccountService
 	branch = dev
 [submodule "url_shortener_service"]
 	path = url_shortener_service
